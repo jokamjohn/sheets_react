@@ -1,0 +1,2 @@
+- Copy the `.env.example` and rename it to `.env`
+- Get the credentials by following this [link](https://developers.google.com/identity/protocols/OAuth2)
